@@ -1,4 +1,4 @@
-# Math
+# Python implementation  of Chudnovsky algorithm
 Fun with Mathematics
 Calculating values of pi by the Chudnovsky algorithm
 Python implementation
